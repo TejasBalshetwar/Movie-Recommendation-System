@@ -4,5 +4,5 @@
 <br />
 **Similarity.pkl File**:
 <br />
-In this project, I have implemented a movie recommendation using content-based filtering method.
+In this project, I have implemented a movie recommendation using content-based filtering method.<br />
 All this lines in code are explained in comments
